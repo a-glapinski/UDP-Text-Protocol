@@ -27,10 +27,10 @@ std::string poleOperacji;		// "o"
 std::string poleLiczb_1;		// "l1"
 std::string poleLiczb_2;		// "l2"
 std::string poleStatusu;		// "s"
-std::string poleIdentyfikatora; // "i"
-//std::string poleInstrukcji;	// "k" jak komenda
-std::string poleACK;			// "p" jak potwierdzenie
-std::string poleCzasu;			// "t" jak time... xd
+std::string poleIdentyfikatora;         // "i"
+//std::string poleInstrukcji;	        // "k" 
+std::string poleACK;			// "p" 
+std::string poleCzasu;			// "t" 
 
 const unsigned int MAX_BUF_LENGTH = 4096;
 char buf[MAX_BUF_LENGTH];
